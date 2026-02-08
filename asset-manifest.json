@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Khirala-Official/static/css/main.961e882e.css",
-    "main.js": "/Khirala-Official/static/js/main.ceb87c03.js",
+    "main.css": "/Khirala-Official/static/css/main.3d8d4ce0.css",
+    "main.js": "/Khirala-Official/static/js/main.41a90847.js",
     "static/js/453.a0c84aba.chunk.js": "/Khirala-Official/static/js/453.a0c84aba.chunk.js",
     "static/media/bg.jpg": "/Khirala-Official/static/media/bg.2303df040f4a75ed8592.jpg",
     "index.html": "/Khirala-Official/index.html",
-    "main.961e882e.css.map": "/Khirala-Official/static/css/main.961e882e.css.map",
-    "main.ceb87c03.js.map": "/Khirala-Official/static/js/main.ceb87c03.js.map",
+    "main.3d8d4ce0.css.map": "/Khirala-Official/static/css/main.3d8d4ce0.css.map",
+    "main.41a90847.js.map": "/Khirala-Official/static/js/main.41a90847.js.map",
     "453.a0c84aba.chunk.js.map": "/Khirala-Official/static/js/453.a0c84aba.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.961e882e.css",
-    "static/js/main.ceb87c03.js"
+    "static/css/main.3d8d4ce0.css",
+    "static/js/main.41a90847.js"
   ]
 }
