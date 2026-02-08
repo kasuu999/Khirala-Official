@@ -1,0 +1,133 @@
+/* Background Image */
+.khirala-bg {
+  min-height: 100vh;
+  background-image: url("./bg.jpg") !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  background-attachment: fixed !important;
+  
+  /* 🔥 BG Enhancement */
+  filter: brightness(1.22) contrast(1.15) saturate(1.12);
+}
+ 
+
+/* Dark Overlay */
+.overlay {
+  background: rgba(0, 0, 0, 0.45); /* 0.65 → 0.45 (BG more visible) */
+  min-height: 100vh;
+  padding-bottom: 40px;
+}
+
+
+/* Header Section */
+.header {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.header h1 {
+  color: #7cfcb8;
+  font-size: 50px;
+  font-weight: bold;
+  text-shadow: 0 0 10px #0f5132;
+}
+
+.header p {
+  color: #d7ffd7;
+  margin-top: 10px;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+
+
+/* Social Cards Container */
+.social-container {
+  max-width: 1200px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px;
+  padding: 20px;
+  justify-content: center;
+}
+
+
+/* Cards */
+.card {
+  width: 320px;
+  background: rgba(255, 255, 255, 0.12);
+  border: 1px solid rgba(0, 255, 150, 0.3);
+  border-radius: 20px;
+  padding: 25px;
+  text-align: center;
+  backdrop-filter: blur(8px);
+  transition: 0.3s;
+  box-shadow: 0 0 20px rgba(0, 255, 120, 0.2);
+}
+
+.card:hover {
+  transform: scale(1.06);
+  box-shadow: 0 0 35px rgba(0, 255, 120, 0.4);
+}
+
+
+/* Icons */
+.icon {
+  font-size: 65px;
+  margin-bottom: 10px;
+}
+
+.yt {
+  color: #ff4d4d;
+}
+
+.insta {
+  color: #ff69b4;
+}
+
+.fb {
+  color: #4d8dff;
+}
+
+
+/* Card Heading */
+.card h2 {
+  color: #7cfcb8;
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+
+
+/* Card Paragraph */
+.card p {
+  color: #e7ffe7;
+  font-size: 15px;
+  margin-bottom: 15px;
+}
+
+
+/* Button */
+.card a {
+  display: inline-block;
+  background: #0ae08c;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+  transition: 0.2s;
+}
+
+.card a:hover {
+  background: #0ccf7b;
+}
+
+
+/* Footer */
+.footer {
+  text-align: center;
+  color: #b8ffcf;
+  padding: 20px 0;
+  margin-top: 40px;
+}
