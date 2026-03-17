@@ -42,7 +42,7 @@ function Khirala() {
             <FaFacebook className="icon fb" />
             <h2>Facebook Page</h2>
             <p>Announcements, events, and community updates.</p>
-            <a href="#" target="_blank">Visit Facebook</a>
+            <a href="https://www.facebook.com/share/1Ky1MJvJqw/?mibextid=wwXIfr" target="_blank">Visit Facebook</a>
           </div>
 
         </div>
