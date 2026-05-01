@@ -26,7 +26,7 @@ function Khirala() {
             <FaYoutube className="icon yt" />
             <h2>YouTube Channel</h2>
             <p>Watch ziyarat videos, dargah events, and official coverage.</p>
-            <a href="https://www.youtube.com/@KHIRALAOFFICIAL" target="_blank">Visit YouTube</a>
+            <a href="https:/https://www.youtube.com/@SBKHIRALAOFFICIAL" target="_blank">Visit YouTube</a>
           </div>
 
           {/* Instagram */}
@@ -34,7 +34,7 @@ function Khirala() {
             <FaInstagram className="icon insta" />
             <h2>Instagram Page</h2>
             <p>Reels, photos, and daily moments from Khirala Sharif.</p>
-            <a href="https://www.instagram.com/khiralaofficial/" target="_blank">Open Instagram</a>
+            <a href="https://https://www.instagram.com/sbkhiralaofficial/" target="_blank">Open Instagram</a>
           </div>
 
           {/* Facebook */}
